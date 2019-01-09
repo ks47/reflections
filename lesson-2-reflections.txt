@@ -1,0 +1,12 @@
+ -> what happens when you initialize a repo and why do you need to do it?
+    
+ when we initialize a repo a git file is created which tracks the status of the file then onwards 
+ we do it since otherwise the status of our files will not be tracked.
+
+ -> how is staging area different from working directory and repository? what value it offers?
+
+ staging areascan be used to make specific files commited at once as opposed to only one or all files thus 
+ making it easier to make one commit per logical change working directory is simply the directory we are
+ working with and repository is where git stores all info regarding commits changes etc.
+
+    
