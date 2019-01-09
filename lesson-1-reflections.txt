@@ -1,0 +1,38 @@
+-> how diff helps in version control?
+
+using diff command we can see line by line the difference between two files
+this can thus help us detect the bug that was present in the new code
+that includes any typo that may have occured or any mistake that can occure 
+in the new version of the project
+
+-> how easy access to previous versions makes us better programmer?
+
+through easy access of previous versions we can access or go back to any
+version of a program we want to go to we can check out any changes we made 
+to the program or take away or bring back any feature we want
+
+-> manual version control like git vs auto vc like goole docs
+
+* manual vc allows us to commit logical changes whenever we like 
+* auto vc helps save changes regularly thus saving us from info being
+ lost due to things like power outage etc 
+
+-> why vc git like have allow saving multiple files in one commit while vc
+          like google docs dont
+
+ vc like git are built for software dev where multiple files have the same
+ content like functions variables etc whereas google docs is made for 
+ office work etc. which usually have all related content in one particular
+ file so there is no need for the files to be saved in a particular commit
+
+-> how can we use git log and git diff to view history of files
+
+ we can use them to view history files by using git log to check a file by 
+ particular message that changed them and git diff to check differences 
+ between two versions of a file and compare how diff they are
+
+-> how can ability to go to previous versions make you more confident to make
+ changes that might break the software
+
+ we can easily go back to the previous unbroken version if anything happens 
+ thus we can easily add more risky changes as well
